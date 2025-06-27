@@ -9,11 +9,11 @@ Pré-requisitos
 
 Certifique-se de ter o seguinte instalado em seu sistema:
 
-    Python 3.x: Se não tiver, baixe e instale em [python.org](https://www.python.org/).
+    Python 3.x: Se não tiver, baixe e instale em https://www.python.org/.
 
-    MongoDB: O servidor MongoDB deve estar em execução. Baixe em [mongodb.com](https://www.mongodb.com/try/download/community).
+    MongoDB: O servidor MongoDB deve estar em execução. Baixe em https://www.mongodb.com/try/download/community.
 
-    Git: Para clonar o repositório. Baixe em [git-scm.com](https://git-scm.com/downloads).
+    Git: Para clonar o repositório. Baixe em https://git-scm.com/downloads.
 
 ### 1. Clonar o Repositório
 

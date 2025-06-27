@@ -58,7 +58,7 @@ Com as configurações ajustadas, você pode iniciar o benchmark. Certifique-se 
 
 Abra seu terminal, navegue até a pasta raiz do projeto (onde está o benchmark.py) e execute:
 
-python benchmark.py
+    python benchmark.py
 
 O script limpará as coleções existentes (clientes, produtos, pedidos), populará os dados conforme o método escolhido internamente no benchmark.py (importação CSV e/ou geração dinâmica), e, em seguida, executará as operações de benchmark (consulta simples, consulta complexa, atualização em massa, exclusão em massa).
 

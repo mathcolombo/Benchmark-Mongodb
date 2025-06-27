@@ -19,8 +19,8 @@ Certifique-se de ter o seguinte instalado em seu sistema:
 
 Primeiro, clone este repositório para sua máquina local:
 
-https://github.com/mathcolombo/Benchmark-Mongodb.git
-cd Benchmark-Mongodb
+    git clone https://github.com/mathcolombo/Benchmark-Mongodb.git
+    cd Benchmark-Mongodb
 
 ### 2. Verificar os Arquivos de Dados
 
@@ -29,11 +29,19 @@ Os arquivos CSV necessários para a importação de dados já estão incluídos 
     .
     ├── benchmark.py
     ├── importer.py
+    ├── create_graphics.py
     ├── .gitignore
     └── datasets/
         ├── clientes.csv
         ├── produtos.csv
         └── pedidos.csv
+
+### 3. Importar libs
+
+As libs usadas para esse projeto foram o pymongo e o matplotlib:
+
+    pip install pymongo
+    pip install matplotlib
 
 ## ⚙️ Configuração do Benchmark
 

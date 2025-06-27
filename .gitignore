@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.env # Se você usa arquivos .env para variáveis de ambiente
+.project
+.idea/ # Para projetos PyCharm/IntelliJ
+.vscode/ # Para projetos VS Code
+!/.vscode/settings.json
+!/.vscode/tasks.json
+!/.vscode/launch.json
+!/.vscode/extensions.json
+
+# MongoDB
+dump/ # Diretório de dumps do MongoDB
+*.bson
+*.json # Se você tem arquivos JSON grandes ou de dados temporários
+data/ # Se você guarda dados localmente (ex: dbpath)
+
+# Logs
+*.log
+log/

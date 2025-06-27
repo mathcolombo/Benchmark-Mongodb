@@ -68,6 +68,8 @@ Abra seu terminal, navegue até a pasta raiz do projeto (onde está o benchmark.
 
     python benchmark.py
 
+    python create_graphics.py
+
 O script limpará as coleções existentes (clientes, produtos, pedidos), populará os dados conforme o método escolhido internamente no benchmark.py (importação CSV e/ou geração dinâmica), e, em seguida, executará as operações de benchmark (consulta simples, consulta complexa, atualização em massa, exclusão em massa).
 
 Os resultados dos tempos de execução serão exibidos no console e salvos em um arquivo CSV chamado results_mongodb_benchmark.csv na raiz do projeto.

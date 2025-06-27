@@ -9,20 +9,18 @@ Pré-requisitos
 
 Certifique-se de ter o seguinte instalado em seu sistema:
 
-    Python 3.x: Se não tiver, baixe e instale em python.org.
+    Python 3.x: Se não tiver, baixe e instale em [python.org](https://www.python.org/).
 
-    MongoDB: O servidor MongoDB deve estar em execução. Baixe em mongodb.com.
+    MongoDB: O servidor MongoDB deve estar em execução. Baixe em [mongodb.com](https://www.mongodb.com/try/download/community).
 
-    Git: Para clonar o repositório. Baixe em git-scm.com.
+    Git: Para clonar o repositório. Baixe em [git-scm.com](https://git-scm.com/downloads).
 
 ### 1. Clonar o Repositório
 
 Primeiro, clone este repositório para sua máquina local:
 
-git clone https://github.com/SeuUsuario/SeuRepositorio.git
-cd SeuRepositorio
-
-(Lembre-se de substituir SeuUsuario/SeuRepositorio pelo caminho real do seu repositório no GitHub.)
+https://github.com/mathcolombo/Benchmark-Mongodb.git
+cd Benchmark-Mongodb
 
 ### 2. Verificar os Arquivos de Dados
 

@@ -1,0 +1,11 @@
+Operação,Tempo (s)
+Importação Clientes (Arquivo),1.179321050643921
+Importação Produtos (Arquivo),0.24686646461486816
+Importação Pedidos (Arquivo),0.7714512348175049
+Inserção Clientes (Dinâmica),0.4670431613922119
+Inserção Produtos (Dinâmica),0.23426389694213867
+Inserção Pedidos (Dinâmica),1.4542553424835205
+Consulta Simples,0.012044191360473633
+Consulta Complexa,10.680271863937378
+Atualização em Massa,0.06826090812683105
+Exclusão em Massa,0.2765843868255615

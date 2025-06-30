@@ -1,3 +1,5 @@
+Link Apresentação Canva: https://www.canva.com/design/DAGrx2JjRYM/aauA2k1GMe7DAfFyJ1rbkQ/edit
+
 # Projeto de Benchmark MongoDB com Python
 
 Este documento contém todas as informações necessárias para entender, configurar e executar um benchmark de operações CRUD (Create, Read, Update, Delete) em um banco de dados MongoDB usando Python. Ele oferece duas formas de popular os dados: importação de arquivos CSV ou geração dinâmica.
